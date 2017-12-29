@@ -6,7 +6,7 @@ package cn.et.hibernate.dao;
 
 public class Food implements java.io.Serializable {
 
-	// Fields
+	// Fields66666
 
 	private Integer foodid;
 	private String foodname;
